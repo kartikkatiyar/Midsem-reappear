@@ -231,8 +231,8 @@ after
 
 ```json
 {
-  "userId1": "uuid-1",
-  "userId2": "uuid-2"
+  "userId1": "1",
+  "userId2": "5"
 }
 ```
 
