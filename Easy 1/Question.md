@@ -9,7 +9,7 @@ The function should perform the following:
 
 - **Write** the text:  
   ```
-  We will not miss the exam next time
+  ExpressJS is fun.
   ```
 - into a file named **`file.txt`** in the **same directory** as the `index.js` file.
 - Use the **absolute path** while writing to the file.
