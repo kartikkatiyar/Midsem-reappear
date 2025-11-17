@@ -28,5 +28,5 @@ writeDataFile();
 A file named **`file.txt`** should exist in the same folder as your `index.js`, containing the text:
 
 ```
-We will not miss the exam next time
+ExpressJS is fun.
 ```
