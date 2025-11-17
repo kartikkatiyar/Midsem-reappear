@@ -26,9 +26,7 @@ Built with **Node.js**, **Express**, and **Prisma ORM**.
 - **id** → Unique identifier primary key
 - **name** → User’s full name
 - **email** → Unique email address
-- **connections** → A **JSON object** storing connected user IDs
-- **createdAt** → Timestamp of creation
-- **updatedAt** → Timestamp of update
+- **connections** → An array containing user ids
 
 ---
 
