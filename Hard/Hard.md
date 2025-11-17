@@ -282,7 +282,20 @@ after
 
 ```json
 {
-  "message": "User Disconnected"
+  "data": {
+    "user1": {
+      "id": 1,
+      "name": "abc",
+      "email": "katiyar@gmail.com",
+      "connections": []
+    },
+    "user2": {
+      "id": 5,
+      "name": "pqr",
+      "email": "gautams@gmail.com",
+      "connections": []
+    }
+  }
 }
 ```
 
